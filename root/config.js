@@ -1,6 +1,6 @@
 {
-  "start":             "Sat Sep 10 2021 15:00:00 GMT",
-  "end_round_1":       "Sat Sep 10 2021 17:00:00 GMT",
-  "end_round_2":       "Sat Sep 11 2021 02:00:00 GMT",
-  "end_waiting_claim": "Sat Sep 11 2021 15:00:00 GMT"
+  "start":             "Fri Nov 19 2021 15:00:00 GMT+0700",
+  "end_round_1":       "Fri Nov 19 2021 15:45:00 GMT+0700",
+  "end_round_2":       "Fri Nov 19 2021 15:45:01 GMT+0700",
+  "end_waiting_claim": "Fri Nov 19 2022 15:00:00 GMT+0700"
 }
